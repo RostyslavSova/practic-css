@@ -1,0 +1,14 @@
+h1 {
+    color:red;
+}
+
+div + p {
+    color:green;
+}
+
+p::first-letter {
+    color:yellow;
+}
+p:hover {
+     color:red;
+ }
